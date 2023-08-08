@@ -1,0 +1,46 @@
+.brand {
+    color: #785b4c;
+}
+
+.sign-container {
+    max-width: 470px;
+}
+
+.icon-height {
+    height: 24px;
+    width: 24px;
+}
+
+.right-box {
+    background: linear-gradient(antiquewhite, #785b4c);
+}
+
+.inputbox {
+    border: 1px solid #cfcece;
+    outline: none;
+}
+
+.inputbox:focus {
+    border: 2px solid #785b4c;
+}
+
+.input-label {
+    top: -12px;
+    left: 3%;
+}
+
+.sign-up {
+    background: #785b4c;
+    color: #fff;
+}
+
+.sign-up:hover {
+    background: #fff;
+    color: #785b4c;
+    border: 1px solid #785b4c;
+}
+
+.signin-border {
+    width: 60px;
+    border: 2px solid #785b4c;
+}
